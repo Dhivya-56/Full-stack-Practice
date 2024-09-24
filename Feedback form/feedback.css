@@ -1,0 +1,11 @@
+.Feedback_form{
+padding: 5px;
+    align-items: center;
+    text-align: left;
+    border: 1px solid black;
+    display:flex;
+    flex-direction: column;
+    margin: auto;
+    border-radius: 3%;
+    width:30%;
+}
