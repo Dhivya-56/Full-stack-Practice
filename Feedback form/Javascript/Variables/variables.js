@@ -21,6 +21,6 @@ console.log(myScore)
 // console.log(firstName)
 
 const grade='A' // declare
-grade='B'     //if reassign ,gives TypeError
+grade='B'     //if reassign ,gives TypeError~
 console.log(grade)
 
